@@ -8,16 +8,6 @@ en:
         cannot_be_blank: "Device token can't be blank"
       device_type:
         is_required: Device type is required
-      email_or_password_not_present: The request must contain the email and password
-      access_token_invalid: invalid access token
-      video_request:
-        over: This transfer call is over
-      video_request1:
-        over1: This transfer call is done
-        over2: This demo is just gettin started
-      video_request2:
-        overt: Waseem transfer call is done
-        overt: This demo is just gettin started
       video_request3:
         overt3: Updated transfer call is done
         overt4: updated demo is just gettin started
